@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lighthouse_rs988.mk
+    $(LOCAL_DIR)/dot_rs988.mk
 
 COMMON_LUNCH_CHOICES := \
-    lighthouse_rs988-userdebug \
-    lighthouse_rs988-eng
+    dot_rs988-userdebug \
+    dot_rs988-eng
