@@ -42,6 +42,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="h1" \
     PRODUCT_DEVICE="h1" \
     PRODUCT_NAME="h1_lra_us" \
-    PRIVATE_BUILD_DESC="h1_lra_us-user 7.0 NRD90U 1707917149a1b release-keys"
+    PRIVATE_BUILD_DESC="redfin-user 11 RQ2A.210505.003 7255357 release-keys"
 
-BUILD_FINGERPRINT := "lge/h1_lra_us/h1:7.0/NRD90U/1707917149a1b:user/release-keys"
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys"
