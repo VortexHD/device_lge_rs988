@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     dot_rs988-userdebug \
+	dot_rs988-user \
     dot_rs988-eng
