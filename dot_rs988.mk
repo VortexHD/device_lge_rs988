@@ -26,7 +26,7 @@ $(call inherit-product, device/lge/rs988/device.mk)
 
 # DotOS variables
 #WITH_GAPPS := true
-TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_BOOT_ANIMATION_RES := 1440
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := rs988
