@@ -38,6 +38,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="h1" \
     PRODUCT_DEVICE="h1" \
     PRODUCT_NAME="h1_lra_us" \
-    PRIVATE_BUILD_DESC="raven-user 12 SD1A.210817.015.A4 7697517 release-keys"
+    PRIVATE_BUILD_DESC="h1_lra_us-user 7.0 NRD90U 1707917149a1b release-keys"
 
-BUILD_FINGERPRINT := "google/raven/raven:12/SD1A.210817.015.A4/7697517:user/release-keys"
+BUILD_FINGERPRINT := "lge/h1_lra_us/h1:7.0/NRD90U/1707917149a1b:user/release-keys"
