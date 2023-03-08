@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_rs988.mk
+    $(LOCAL_DIR)/lineage_rs988.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_rs988-userdebug \
-	dot_rs988-user \
-    dot_rs988-eng
+    lineage_rs988-userdebug \
+	lineage_rs988-user \
+    lineage_rs988-eng
